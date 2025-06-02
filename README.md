@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi, I'm Enzo Murayama! 👋
+
+<pre>
+                                                 __    __   ______   __    __ 
+                                                |  \  |  \ /      \ |  \  |  \
+                                                | $$  | $$|  $$$$$$\| $$  | $$
+                                                | $$__| $$| $$$\| $$| $$__| $$
+                                                | $$    $$| $$$$\ $$| $$    $$
+                                                 \$$$$$$$$| $$\$$\$$ \$$$$$$$$
+                                                      | $$| $$_\$$$$      | $$
+                                                      | $$ \$$  \$$$      | $$
+                                                       \$$  \$$$$$$        \$$                                                              
+</pre>
 
 <!--
 **enzomurayama/enzomurayama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
