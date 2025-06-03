@@ -25,5 +25,3 @@
 
 ## Skills
 ![Skills](https://skills.syvixor.com/api/icons?i=html,css,c,cpp,js,react,tailwind,docker)
-
-<br>
