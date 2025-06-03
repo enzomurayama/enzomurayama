@@ -1,4 +1,4 @@
-## Hi, I'm Enzo Murayama! 👋
+## Hi, I'm Enzo Murayama! 👾
 
 <pre>
   
@@ -13,17 +13,16 @@
 
 </pre>
 
-<!--
-**enzomurayama/enzomurayama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## About me
+- 🚀 I currently serve as the IT Director at SECOMP UFSCar
+- 🧑‍💻 I'm also a Front-End developer at QuestIO
+- 🎨 I'm deeply interested in UX and UI design
+- 📚 Currently studying Cybersecurity and DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Skills
+![Skills](https://skills.syvixor.com/api/icons?i=html,css,c,cpp,js,react,tailwind,docker)
+
