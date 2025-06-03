@@ -26,3 +26,13 @@
 ## Skills
 ![Skills](https://skills.syvixor.com/api/icons?i=html,css,c,cpp,js,react,tailwind,docker)
 
+<br>
+
+## GitHub Stats
+
+<a href="https://github.com/enzomurayama/github-readme-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=enzomurayama&theme=dark">
+    <img height=160 alt="Enzo Murayama's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=enzomurayama&theme=default">
+  </picture>
+</a>
