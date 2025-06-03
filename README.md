@@ -13,6 +13,10 @@
 
 </pre>
 
+<div>
+My interest in the tech field began in high school, when I took a technical course in system development. That’s when I had my first real experience with programming and built my first complete web application. Since then, I’ve been expanding my knowledge, studying languages like C and C++, improving my web and mobile development skills, and diving into lower-level concepts like operating systems and computer architecture. Right now, I’ve been focusing on cybersecurity and DevOps.
+</div>
+
 <br>
 
 ## About me
@@ -25,3 +29,13 @@
 
 ## Skills
 ![Skills](https://skills.syvixor.com/api/icons?i=html,css,c,cpp,js,react,tailwind,docker)
+
+<br>
+
+## GitHub Stats
+<div>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=enzomurayama&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="enzo murayama's Stats" height="160">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzomurayama&theme=dark&hide_border=true" alt="enzo murayama's Streak" height="160">
+  </p>
+</div>
