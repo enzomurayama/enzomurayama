@@ -1,17 +1,21 @@
 ## Hi, I'm Enzo Murayama! 👾
 
+<div align="center">
+
 <pre>
-  
-                         /$$      /$$ /$$$$$$$$ /$$        /$$$$$$   /$$$$$$  /$$      /$$ /$$$$$$$$
-                        | $$  /$ | $$| $$_____/| $$       /$$__  $$ /$$__  $$| $$$    /$$$| $$_____/
-                        | $$ /$$$| $$| $$      | $$      | $$  \__/| $$  \ $$| $$$$  /$$$$| $$      
-                        | $$/$$ $$ $$| $$$$$   | $$      | $$      | $$  | $$| $$ $$/$$ $$| $$$$$   
-                        | $$$$_  $$$$| $$__/   | $$      | $$      | $$  | $$| $$  $$$| $$| $$__/   
-                        | $$$/ \  $$$| $$      | $$      | $$    $$| $$  | $$| $$\  $ | $$| $$      
-                        | $$/   \  $$| $$$$$$$$| $$$$$$$$|  $$$$$$/|  $$$$$$/| $$ \/  | $$| $$$$$$$$
-                        |__/     \__/|________/|________/ \______/  \______/ |__/     |__/|________/
+                         
+   /$$      /$$ /$$$$$$$$ /$$        /$$$$$$   /$$$$$$  /$$      /$$ /$$$$$$$$
+  | $$  /$ | $$| $$_____/| $$       /$$__  $$ /$$__  $$| $$$    /$$$| $$_____/
+  | $$ /$$$| $$| $$      | $$      | $$  \__/| $$  \ $$| $$$$  /$$$$| $$      
+  | $$/$$ $$ $$| $$$$$   | $$      | $$      | $$  | $$| $$ $$/$$ $$| $$$$$   
+  | $$$$_  $$$$| $$__/   | $$      | $$      | $$  | $$| $$  $$$| $$| $$__/   
+  | $$$/ \  $$$| $$      | $$      | $$    $$| $$  | $$| $$\  $ | $$| $$      
+  | $$/   \  $$| $$$$$$$$| $$$$$$$$|  $$$$$$/|  $$$$$$/| $$ \/  | $$| $$$$$$$$
+  |__/     \__/|________/|________/ \______/  \______/ |__/     |__/|________/
 
 </pre>
+
+</div>
 
 <div>
 My interest in the tech field began in high school, when I took a technical course in system development. That’s when I had my first real experience with programming and built my first complete web application. Since then, I’ve been expanding my knowledge, studying languages like C and C++, improving my web and mobile development skills, and diving into lower-level concepts like operating systems and computer architecture. Right now, I’ve been focusing on cybersecurity and DevOps.
