@@ -35,7 +35,7 @@ My interest in the tech field began in high school, when I took a technical cour
 ## GitHub Stats
 <div>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=enzomurayama&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="enzo murayama's Stats" height="160">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzomurayama&theme=dark&hide_border=true" alt="enzo murayama's Streak" height="160">
+    <img src="https://github-readme-stats.vercel.app/api?username=enzomurayama&theme=dark&show_icons=true&count_private=true" alt="enzo murayama's Stats" height="160" width="400">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=enzomurayama&theme=dark&count_private=true" alt="enzo murayama's Streak" height="160" width="400">
   </p>
 </div>
