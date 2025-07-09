@@ -32,7 +32,7 @@ My interest in the tech field began in high school, when I took a technical cour
 <br>
 
 ## Skills
-![Skills](https://skills.syvixor.com/api/icons?i=html,css,c,cpp,js,react,tailwind,mysql,docker,figma)
+![Skills](https://skills.syvixor.com/api/icons?i=html,css,c,cpp,js,ts,react,tailwind,mysql,docker,figma)
 
 <br>
 
