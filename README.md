@@ -25,7 +25,7 @@ My interest in the tech field began in high school, when I took a technical cour
 
 ## About me
 - 🚀 I currently serve as the IT Director at SECOMP UFSCar
-- 🧑‍💻 I'm also a Front-End developer at QuestIO
+- 🧑‍💻 I'm also a software developer at QuestIO
 - 🎨 I'm deeply interested in UX and UI design
 - 📚 Currently studying Cybersecurity and DevOps
 
