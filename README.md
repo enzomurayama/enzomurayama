@@ -27,7 +27,6 @@ My interest in the tech field began in high school, when I took a technical cour
 - 💙 Intern at Up.p.
 - 🚀 IT Director at SECOMP UFSCar.
 - 🧑‍💻 Software developer at QuestIO.
-- 🎨 I'm deeply interested in UX and UI design
 - 📚 Currently studying Cybersecurity
 
 <br>
